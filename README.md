@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ralitsa Batista
+- 👋 Hi, I’m Ralitsa Batista, .NET | Azure developer
 - 🌱 I’m currently working at Solteq Oy, Vantaa, Finland
 - 📫 How to reach me: email: ralitsa.batista@solteq.com or tel +358451122994
 
